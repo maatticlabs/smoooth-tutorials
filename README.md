@@ -13,7 +13,7 @@ It includes examples of integrating Klarna within the following application type
 
 Next.js is a server-side rendering framework based on React. If you have a React-based application this tutorial is probably what you want to have a look at. You can find it under the following links:
 
-- 📹 Video: https://youtube.com
+- 📹 Video: https://www.youtube.com/watch?v=wJ4Tmr8GJPo
 - 💻 Code: [here](./klarna-checkout-101/integrate-from-scratch)
 - 📄 Docs: [Klarna Developers](https://developers.klarna.com/documentation/klarna-checkout/)
 
